@@ -25,7 +25,7 @@ In this section, I will explain what the tags do and why I used them in my proje
 First of all, this is a simple explanions of the tags functions and problably are not 100% correct.
 
   **HTML TAGS**
-  - The tag p was used to create all the paragraphs;
+  - The tag < p > was used to create all the paragraphs;
   - The <body> tag is where I put all the content and tags that the user will see.
   - The <img> tag was used to display images on the site.
   - The <audio> tag was used to include audio on the site.
