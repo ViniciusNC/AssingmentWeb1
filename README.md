@@ -38,5 +38,5 @@ First of all, this is a simple explanions of the tags functions and problably ar
 Now lets talk about the:
   **CSS TAGS**
   - The selector {Body} is used to apply changes to the page's body. On my website, I added a background image and set it to not repeat.
-  - The class {CENTER} is used to center all the HTML tags and make some adjustments to the <p> tag. The most important properties are color for changing the text color and text-align for centering.
+  - The class {CENTER} is used to center all the HTML tags that has this class and make some adjustments to the <p> tag. The most important properties are color for changing the text color and text-align for centering.
   - The class {HEADER} is used to create the header for the page, add a background color, borders, and more.
